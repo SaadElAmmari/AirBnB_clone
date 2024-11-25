@@ -1,0 +1,23 @@
+footer {
+<<<<<<< HEAD
+    background-color: #00FF00;
+    height: 60px;
+    width: 100%;
+    bottom: 0;
+    position: absolute
+}
+footer p {
+    text-align: center;
+    margin: 20px
+}
+=======
+            align-items: center;
+            background-color: #0f0;
+            bottom: 0;
+            display: flex;
+            height: 60px;
+            justify-content: center;
+            position: absolute;
+            width: 100%;
+        }
+>>>>>>> 2be4ac4d8b56032ccfc2f10669a60cc98e74fee3
